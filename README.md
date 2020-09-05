@@ -16,7 +16,7 @@ ISCR:
 *Copyright*
 ---------
 Date:\
-Composition: Lee Allison [BMI:]\
+Composition: [PRO: number]\
 Master: Lee Allison
 
 
