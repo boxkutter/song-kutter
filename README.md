@@ -2,8 +2,10 @@
 A place to document my songs and all the technical details that I can never remember.\
 
 ## Data
-Should look something like this.\
+Should look something like this.
 
+*Song*
+------
 Title:\
 Other titles:\
 Artist(s):\
@@ -30,7 +32,7 @@ Keywords:\
 Sounds like:\
 
 
-Performance
+*Performance*
 -----------
 Vocal: Male / Female\
 Main instrument:\
