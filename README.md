@@ -9,16 +9,16 @@ Other titles:\
 Artist(s):\
 Release date:\
 ISWC:\
-ISCR:\
+ISCR:
 
-Copyright
+*Copyright*
 ---------
 Date:\
 Composition: Lee Allison [BMI:]\
-Master: Lee Allison\
+Master: Lee Allison
 
 
-Composition
+*Composition*
 -----------
 Time: 4/4\
 Bpm:\
